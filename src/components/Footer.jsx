@@ -13,7 +13,7 @@ function Footer() {
           
           <div className="flex space-x-6">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/divy4nshu"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400 transition-colors"
@@ -21,7 +21,7 @@ function Footer() {
               <FaGithub className="text-2xl" />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/divyanshu-mishra-746559341"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400 transition-colors"
@@ -29,7 +29,7 @@ function Footer() {
               <FaLinkedin className="text-2xl" />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="divyanshumishra334@gmail.com"
               className="hover:text-gray-400 transition-colors"
             >
               <FaEnvelope className="text-2xl" />
